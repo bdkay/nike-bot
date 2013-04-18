@@ -1,0 +1,13 @@
+{
+  "name": "Nike",
+  "manifest_version": 2,
+  "version": "1",
+  "content_scripts": [
+    {
+      "matches": ["http://store.nike.com/*"],
+      "js": ["autobuy.js"]
+    }
+  ], "permissions": [
+    "tabs", "http://store.nike.com/*"
+  ]
+}
