@@ -1,7 +1,7 @@
 Nike-Bot
 ========
 
-Just a bit of JS + PHP loaded as a Chrome extension for purchasing limited releases from [Nike](http://nike.com) via [Twitter](http://www.twitter.com). It automatically adds the specified shoe size and amount to your cart upon clicking a [@nikestore](http://twitter.com/nikestore) RVSP link. Those two values are set inside [autocart.js](/chrome-extension/autocart.js).
+Just a bit of JS + PHP that, when loaded as a Chrome extention, automatically adds the specified shoe size and amount to your cart upon clicking a [@nikestore](http://twitter.com/nikestore) RVSP link when purchasing limited shoe releases from [Nike](http://nike.com) via [Twitter](http://www.twitter.com). It . Those two values are set inside [autocart.js](/chrome-extension/autocart.js).
 
         var size = "12";
         var amount = 1;
