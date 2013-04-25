@@ -1,6 +1,6 @@
 Nike-Bot
 ========
-Just a bit of simple JS + PHP loaded as a Chrome extension in Developer mode. It automatically adds the specified shoe size and amount to your cart upon clicking a @nikestore RVSP link. Those two values are set inside *autocart.js.
+Just a bit of simple JS + PHP loaded as a Chrome extension in Developer mode. It automatically adds the specified shoe size and amount to your cart upon clicking a @nikestore RVSP link. Those two values are set inside [autocart.js](/chrome-extension/autocart.js).
 
         var size = "12";
         var amount = 1;
