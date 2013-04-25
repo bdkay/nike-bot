@@ -1,13 +1,16 @@
 Nike-Bot
 ========
-> Nike's newest release platform is Twitter, sending out unique direct purchase URLs for each shoe release to millions of > thirsty sneakerheads around the globe. Some people started selling a "program" that would automatically add pairs to the > user's cart that would "work on both Mac and PC" (lulz). This made me think that it was probably just a simple piece  >code they were using to set the size and amount values upon page load. This, coupled with the fact that they were selling > it for $50-100 apiece, made me think I could write my own. Thus, nike-bot.
 
-Just a bit of JS + PHP loaded as a Chrome extension in Developer mode. It automatically adds the specified shoe size and amount to your cart upon clicking a [@nikestore](http://twitter.com/nikestore) RVSP link. Those two values are set inside [autocart.js](/chrome-extension/autocart.js).
+Just a bit of JS + PHP loaded as a Chrome extension for purchasing limited releases from [Nike](http://nike.com) via [Twitter](http://www.twitter.com). It automatically adds the specified shoe size and amount to your cart upon clicking a [@nikestore](http://twitter.com/nikestore) RVSP link. Those two values are set inside [autocart.js](/chrome-extension/autocart.js).
 
         var size = "12";
         var amount = 1;
 
-Automating the two steps of picking a size and amount doesn't seem very useful, but when limited release URLs are being hit by literally millions of people at once, every second counts.
+Automating the first two steps of picking a size and amount doesn't seem very useful, but when limited release URLs are being hit by literally millions of people at once every second counts.
+
+> Nike's newest release platform is Twitter, sending out unique direct purchase URLs for each shoe release to millions of  thirsty sneakerheads around the globe. Some people started selling a "program" that would automatically add pairs to the  user's cart that would "work on both Mac and PC". 
+
+> This made me think that it was probably just a simple piece code they were using to set the size and amount values upon page load. This, coupled with the fact that they were selling it for $50-100 apiece, made me think I could write my own. Thus, nike-bot.
 
 
 Set Up
