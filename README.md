@@ -25,13 +25,8 @@ Set Up
 2. Open Google Chrome. 
 3. Go to Settings > Extensions. Tick the box next to 'Developer mode'.
 4. Click on 'Load Packed Extension' button to the left.
-5. Double click nike-master-bot, then chrome-extension, then autocart.js.
+5. Double click nike-master-bot, then chrome-extension, then autocart.js. This will load it as a Chrome extension.
 
+### If you edit [autocart.js](/chrome-extension/autocart.js) at all, such as modifying the size or amount values, you'll have to go back into Chrome > Settings > Extensions and click 'Reload' under nike-bot.
 
-### Header 3
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+Also if you have any questions, don't hesitate to email me at [brendonkuleck@gmail.com](mailto:brendonkuleck@gmail.com).
