@@ -1,5 +1,7 @@
 Nike-Bot
 ========
+---------------------
+
 
 Just a bit of JS + PHP that, when loaded as a Chrome extension, aids in automating the first two steps of purchasing limited shoe releases from [Nike](http://nike.com) via [Twitter](http://www.twitter.com). 
 
