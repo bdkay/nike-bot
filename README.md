@@ -5,7 +5,7 @@ Nike-Bot
 
 Just a bit of JS + PHP that, when loaded as a Chrome extension, aids in automating the first two steps of purchasing limited shoe releases from [Nike](http://nike.com) via [Twitter](http://www.twitter.com). 
 
-After clicking a [@nikestore](http://twitter.com/nikestore) RVSP link, the specified shoe size and amount are automatically added to your cart. 
+After clicking the [@nikestore](http://twitter.com/nikestore) release link, the specified shoe size and amount are automatically added to your cart. 
 
 These two values are set inside [autocart.js](/chrome-extension/autocart.js).
 
@@ -30,7 +30,7 @@ Set Up
 4. Click on 'Load Packed Extension' button to the left.
 5. Double click nike-master-bot, then chrome-extension, then autocart.js. This will load it as a Chrome extension.
 
-
+That's it! Now just click on a [@nikestore](http://twitter.com/nikestore) release link and watch it do its thing.
 
 ### If you edit [autocart.js](/chrome-extension/autocart.js) at all, such as modifying the size or amount values, you'll have to go back into Chrome > Settings > Extensions and click 'Reload' under nike-bot.
 
