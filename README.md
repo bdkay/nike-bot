@@ -17,6 +17,7 @@ Automating the first two steps of picking a size and amount doesn't seem very us
 > This made me think that it was probably just a simple piece code that sets the size and amount values upon page load. This, coupled with the fact that they were selling it for $50-100 apiece, made me think I could write my own. Thus, nike-bot!
 
 
+
 Set Up
 ---------------------
 
@@ -27,6 +28,9 @@ Set Up
 4. Click on 'Load Packed Extension' button to the left.
 5. Double click nike-master-bot, then chrome-extension, then autocart.js. This will load it as a Chrome extension.
 
+
+
 ### If you edit [autocart.js](/chrome-extension/autocart.js) at all, such as modifying the size or amount values, you'll have to go back into Chrome > Settings > Extensions and click 'Reload' under nike-bot.
+
 
 Also if you have any questions, don't hesitate to email me at [brendonkuleck@gmail.com](mailto:brendonkuleck@gmail.com).
