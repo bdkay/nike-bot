@@ -1,7 +1,11 @@
-nike-bot
+Nike-Bot
 ========
+I enjoy both sneaker culture and coding, so when I saw people trying to get $50-100 for something as simple as this, I decided to try and come up with a free version. 
 
-JS + PHP snippet that, when loaded as a Chrome extension, automatically adds the specified size to user's cart upon clicking a @nikestore RVSP link
+
+Just a bit of simple JS + PHP loaded as a Chrome extension.
+
+automatically adds the specified size to your cart upon clicking a @nikestore RVSP link
 
 Set Up
 ---------------------
