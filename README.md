@@ -20,7 +20,13 @@ Automating the first two steps of picking a size and amount doesn't seem very us
 Set Up
 ---------------------
 
-1. Fork the repo or, if you're not using git, download the [.ZIP](http://github.com/bdkay/nike-bot/archive/master.zip).
+1. Fork the repo or, if you're not using git, [download the .ZIP](http://github.com/bdkay/nike-bot/archive/master.zip).
+2. Unzip [master.zip](http://github.com/bdkay/nike-bot/archive/master.zip). It contains 1 folder, master-nike-bot.
+2. Open Google Chrome. 
+3. Go to Settings > Extensions. Tick the box next to 'Developer mode'.
+4. Click on 'Load Packed Extension' button to the left.
+5. Double click nike-master-bot, then chrome-extension, then autocart.js.
+
 
 ### Header 3
 
