@@ -33,6 +33,3 @@ Set Up
 That's it! Now just click on a [@nikestore](http://twitter.com/nikestore) release link and watch it do its thing.
 
 ### If you edit [autocart.js](/chrome-extension/autocart.js) at all, such as modifying the size or amount values, you'll have to go back into Chrome > Settings > Extensions and click 'Reload' under nike-bot.
-
-
-Also if you have any questions, don't hesitate to email me at [brendonkuleck@gmail.com](mailto:brendonkuleck@gmail.com).
