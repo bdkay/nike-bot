@@ -16,7 +16,7 @@ function addToCart() {
 	}
 	if(sizesList != undefined) {
 	    setSizeValue();
-	    document.getElementsByClassName("button-container add-to-cart")[0].click();
+	    document.getElementById("buyingtools-add-to-cart-button").click();
 	} else {
 	    setTimeout("addToCart()", 250);
 	}
