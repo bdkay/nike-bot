@@ -1,7 +1,7 @@
 Nike-Bot
 ========
----------------------
 
+AS OF 1/1/2016, THIS IS NO LONGER WORKING. IT WAS MERELY AN EXERCISE TO DEMONSTRATE HOW DUMB IT IS TO BUY BOTS FROM RESELLERS.
 
 Just a bit of JS + PHP that, when loaded as a Chrome extension, aids in automating the first two steps of purchasing limited shoe releases from [Nike](http://nike.com) via [Twitter](http://www.twitter.com). 
 
